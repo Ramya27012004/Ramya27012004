@@ -4,7 +4,7 @@
 
 ![My Demo](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/5748/files/2024/12/HomeLogo.gif)
 # Hi 👋, I'm Ramya
-
+------------Full Stack Developer------------
 ---
 ------------Full Stack Developer------------
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9f87ce14-5f7a-4195-82a6-28433eca4d77" />
