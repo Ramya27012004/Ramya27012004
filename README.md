@@ -47,9 +47,6 @@
   <a href="https://www.oracle.com/database/technologies/sql.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
   </a>
-  <a href="https://www.oracle.com/database/technologies/appdev/sql-plus.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="SQL Plus"/>
-  </a>
 </p>
 
 
