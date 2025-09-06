@@ -6,6 +6,12 @@
 # Hi 👋, I'm Ramya
 ------------Full Stack Developer------------
 ---
+<p align="center">------------Full Stack Developer------------</p>
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="Full Stack Developer">
+</p>
+
 ------------Full Stack Developer------------
 ![My Demo](https://miro.medium.com/v2/resize:fit:828/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif)
 
