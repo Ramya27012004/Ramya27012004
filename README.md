@@ -7,8 +7,7 @@
 
 ---
 
-    <h2>------------Full Stack Developer------------</h2
-
+<p align="center">------------Full Stack Developer------------</p>
 
 ![My Demo](https://miro.medium.com/v2/resize:fit:828/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif)
 
