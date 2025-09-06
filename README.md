@@ -1,4 +1,15 @@
-## Hi there 👋
+
+# Hi, I'm Ramya 👋  
+
+
+![My Demo](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/5748/files/2024/12/HomeLogo.gif)
+
+---
+
+- 🌱 Currently learning **Python Full-Stack Development (Python, Django)**  
+- 🚀 Exploring **Web Development & Open Source**  
+- 💬 Ask me about **Python, SQL, and Web basics**    
+- 📫 Reach me at: **ramyapalle129@gmail.com**
 
 <!--
 **Ramya27012004/Ramya27012004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
