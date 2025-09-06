@@ -17,11 +17,10 @@
 - 💬 Ask me about **Python, SQL, and Web Technologies**    
 - 📫 Reach me at: **ramyapalle129@gmail.com**
 
-<h2>Connect with me</h2>
-
-<p align="center">
+<h2>Connect with me:</h2>
+<p>
   <a href="https://www.linkedin.com/in/ramya-palle-chinna-munaswamigari-7a9b28322" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" alt="LinkedIn" style="fill:#0077B5"/>
   </a>
 </p>
 
