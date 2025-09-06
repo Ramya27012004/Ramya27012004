@@ -3,7 +3,7 @@
 
 
 ![My Demo](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/5748/files/2024/12/HomeLogo.gif)
-<h1 align="center">Hi 👋, I'm Ramya</h1>
+<h1 align="center">Hi 👋, I'm Ramya Palle</h1>
 
 ---
 
