@@ -15,7 +15,7 @@
 - 🌱 Currently learning **Python, Django**  
 - 🚀 Exploring **Full-Stack Development**
 - 🤝 Open to collaborate on **Web Development & Open Source Projects**
-- 💬 Ask me about **Python, SQL, andWeb Development basics**    
+- 💬 Ask me about **Python, SQL, and Web Development basics**    
 - 📫 Reach me at: **ramyapalle129@gmail.com**
 
 <h2>Connect with me:</h2>
