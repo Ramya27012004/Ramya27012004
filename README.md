@@ -4,15 +4,16 @@
 
 ![My Demo](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/5748/files/2024/12/HomeLogo.gif)
 # Hi 👋, I'm Ramya
-------------Full Stack Developer------------
+
 ---
-<p align="center">------------Full Stack Developer------------</p>
+<div style="display: flex; align-items: flex-start;">
+  <img src="[your-image-link-here](https://miro.medium.com/v2/resize:fit:828/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif)" alt="Full Stack Developer" width="150" style="margin-right: 20px;">
+  <div>
+    <h2>------------Full Stack Developer------------</h2>
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="Full Stack Developer">
-</p>
 
-------------Full Stack Developer------------
 ![My Demo](https://miro.medium.com/v2/resize:fit:828/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif)
 
 
