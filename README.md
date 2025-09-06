@@ -7,7 +7,7 @@
 ------------Full Stack Developer------------
 ---
 ------------Full Stack Developer------------
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9f87ce14-5f7a-4195-82a6-28433eca4d77" />
+![My Demo](https://miro.medium.com/v2/resize:fit:828/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif)
 
 
 - 🌱 Currently learning **Python Full-Stack Development (Python, Django)**  
