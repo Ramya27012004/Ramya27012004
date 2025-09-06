@@ -17,6 +17,14 @@
 - 💬 Ask me about **Python, SQL, and Web Technologies**    
 - 📫 Reach me at: **ramyapalle129@gmail.com**
 
+<h2 align="center">Connect with me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramya-palle-chinna-munaswamigari-7a9b28322" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 <!--
 **Ramya27012004/Ramya27012004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
