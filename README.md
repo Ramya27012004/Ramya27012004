@@ -1,10 +1,13 @@
 
-# Hi, I'm Ramya 👋  
+  
 
 
 ![My Demo](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/5748/files/2024/12/HomeLogo.gif)
+# Hi 👋, I'm Ramya
 
 ---
+------------Full Stack Developer------------
+
 
 - 🌱 Currently learning **Python Full-Stack Development (Python, Django)**  
 - 🚀 Exploring **Web Development & Open Source**  
