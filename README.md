@@ -3,7 +3,7 @@
 
 
 ![My Demo](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/5748/files/2024/12/HomeLogo.gif)
-# Hi 👋, I'm Ramya
+<h1 align="center">Hi 👋, I'm Ramya</h1>
 
 ---
 
@@ -12,9 +12,9 @@
 ![My Demo](https://miro.medium.com/v2/resize:fit:828/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif)
 
 
-- 🌱 Currently learning **Python Full-Stack Development (Python, Django)**  
+- 🌱 Currently learning **Python, Django**  
 - 🚀 Exploring **Web Development & Open Source**  
-- 💬 Ask me about **Python, SQL, and Web basics**    
+- 💬 Ask me about **Python, SQL, and Web Technologies**    
 - 📫 Reach me at: **ramyapalle129@gmail.com**
 
 <!--
