@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ramya Palle</h1>
 
 ---
-<p align="center">------------Full Stack Developer------------</p>
+<h2 align="center">------------Full Stack Developer------------</h2>
 
 ![My Demo](https://miro.medium.com/v2/resize:fit:828/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif)
 
