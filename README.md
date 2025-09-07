@@ -2,8 +2,7 @@
 ![My Demo](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/5748/files/2024/12/HomeLogo.gif)
 <h1 align="center">Hi 👋, I'm Ramya Palle</h1>
 
----
-<h2 align="center">------------Full Stack Developer------------</h2>
+<h3 align="center">------------Full Stack Developer------------</h3>
 
 ![My Demo](https://miro.medium.com/v2/resize:fit:828/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif)
 
