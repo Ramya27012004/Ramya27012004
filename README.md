@@ -9,7 +9,9 @@
 
 ![My Demo](https://miro.medium.com/v2/resize:fit:828/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramya27012004&label=Profile%20views&color=0e75b6&style=flat" alt="Ramya27012004" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ramya27012004" alt="Ramya27012004" /></a> </p>
 - 🌱 Currently learning **Python, Django**  
 - 🚀 Exploring **Full-Stack Development**
 - 🤝 Open to collaborate on **Web Development & Open Source Projects**
