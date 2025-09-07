@@ -49,6 +49,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
   </a>
 </p>
+![Ramya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramya27012004&show_icons=true&theme=github_dark)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 
 
