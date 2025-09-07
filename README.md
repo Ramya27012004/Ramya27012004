@@ -47,7 +47,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihal8gupta&show_icons=true&locale=en&layout=compact" alt="nihal8gupta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramya27012004&show_icons=true&locale=en&layout=compact" alt="/Ramya27012004" /></p>
 
 
 <!--
