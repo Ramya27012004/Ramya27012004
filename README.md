@@ -1,18 +1,16 @@
-
   
 ![My Demo](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/5748/files/2024/12/HomeLogo.gif)
 <h1 align="center">Hi 👋, I'm Ramya Palle</h1>
 
 ---
-
 <p align="center">------------Full Stack Developer------------</p>
 
 ![My Demo](https://miro.medium.com/v2/resize:fit:828/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramya27012004&label=Profile%20views&color=0e75b6&style=flat" alt="Ramya27012004" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ramya27012004" alt="Ramya27012004" /></a> </p>
-- 🌱 Currently learning **Python, Django**  
+
+- 🌱 Currently learning **Python, Django**
 - 🚀 Exploring **Full-Stack Development**
 - 🤝 Open to collaborate on **Web Development & Open Source Projects**
 - 💬 Ask me about **Python, SQL, and Web Development basics**    
