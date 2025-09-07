@@ -1,7 +1,5 @@
 
   
-
-
 ![My Demo](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/5748/files/2024/12/HomeLogo.gif)
 <h1 align="center">Hi 👋, I'm Ramya Palle</h1>
 
@@ -49,15 +47,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
   </a>
 </p>
-![Ramya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramya27012004&show_icons=true&theme=github_dark)
-
-### Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
 
 <!--
 **Ramya27012004/Ramya27012004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
