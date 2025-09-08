@@ -1,5 +1,5 @@
   
-![My Demo](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/5748/files/2024/12/HomeLogo.gif)
+![My Demo](‪C:\Users\palle\Downloads\developer.mp4)
 <h1 align="center">Hi 👋, I'm Ramya Palle</h1>
 
 <h3 align="center">------------Full Stack Developer------------</h3>
