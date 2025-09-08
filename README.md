@@ -5,11 +5,9 @@
 <h3 align="center">------------Full Stack Developer------------</h3>
 
 <p align="left">
-  <video width="60%" controls>
-    <source src="videos/developer.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="demo" width="60%" />
 </p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramya27012004&label=Profile%20views&color=0e75b6&style=flat" alt="Ramya27012004" /> </p>
