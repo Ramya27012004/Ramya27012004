@@ -24,8 +24,8 @@
   <a href="https://www.linkedin.com/in/ramya-palle-chinna-munaswamigari-7a9b28322" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn">
   </a>
-<a href="https://www.hackerrank.com/profile/ramyapalle129" target="_blank" rel="noopener noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank — Ramya Palle" width="50" />
+<a href="https://www.hackerrank.com/profile/ramyapalle129" target="_blank" rel="noopener noreferrer"> 
+  <img src="https://cdn.simpleicons.org/hackerrank/000000" alt="HackerRank — Ramya Palle" width="40" /> 
 </a>
 </p>
 
