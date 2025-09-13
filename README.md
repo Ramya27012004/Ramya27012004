@@ -24,9 +24,11 @@
   <a href="https://www.linkedin.com/in/ramya-palle-chinna-munaswamigari-7a9b28322" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn">
 </p>
+<p</p> 
 <a href="https://www.hackerrank.com/profile/ramyapalle129" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank — Ramya Palle" width="28" />
+  <img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank — Ramya Palle" width="40" />
 </a>
+</p>
 
 
 <h2>Languages and Tools:</h2>
